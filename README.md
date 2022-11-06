@@ -2,11 +2,11 @@
 
 Build a simple ATM machine cli program that has the following features
 
-Change Pin (you can create a default pin in your code and then change it in the function)
-Account balance
-Withdraw funds
-Deposit funds
-Cancel/Exit (selecting this option should exit the program)
+* Change Pin (you can create a default pin in your code and then change it in the function)
+* Account balance
+* Withdraw funds
+* Deposit funds
+* Cancel/Exit (selecting this option should exit the program)
 
 The flow of the program should be as follows
 Run the cli program, A prompt asking you to enter your pin is displayed, once the entered pin is successful, display menu options for the operations that can be carried out in your cli program.
